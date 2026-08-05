@@ -17,7 +17,7 @@ Keep your favorite websites, search, folders and workspaces in one beautiful pla
 <br><br>
 
 💬 **Found a bug, have an idea or need help?**
-[Send feedback, report a problem or suggest a feature →](https://leantab.help/)
+[Send feedback, report a problem or suggest a feature →](https://leantab.help/#contacts)
 
 <br>
 
@@ -178,7 +178,7 @@ You can use the LeanTab website to:
 * ❓ Ask a question
 * 💬 Send general feedback
 
-👉 **[Send feedback, report a bug or suggest a feature →](https://leantab.help/)**
+👉 **[Send feedback, report a bug or suggest a feature →](https://leantab.help/#contacts)**
 
 ---
 
@@ -335,7 +335,7 @@ LeanTab выполняет поиск через поисковую систем
 * ❓ Задать вопрос
 * 💬 Оставить отзыв или пожелание
 
-👉 **[Сообщить об ошибке, оставить отзыв или предложить функцию →](https://leantab.help/)**
+👉 **[Сообщить об ошибке, оставить отзыв или предложить функцию →](https://leantab.help/#contacts)**
 
 ---
 
