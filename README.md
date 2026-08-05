@@ -349,6 +349,6 @@ LeanTab выполняет поиск через поисковую систем
 
 <br>
 
-[Chrome Web Store](https://chromewebstore.google.com/detail/leantab/fffcoodgkabiljeifkakfnmkmnigomdo?authuser=0&hl=ru) · [Firefox Add-ons](FIREFOX_ADDONS_LINK) · [Feedback & Support](https://leantab.help/)
+[Chrome Web Store](https://chromewebstore.google.com/detail/leantab/fffcoodgkabiljeifkakfnmkmnigomdo?authuser=0&hl=ru) · [Firefox Add-ons](FIREFOX_ADDONS_LINK) · [Feedback & Support](https://leantab.help/#contacts)
 
 </div>
