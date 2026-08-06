@@ -11,7 +11,7 @@ Keep your favorite websites, search, folders and workspaces in one beautiful pla
 <br>
 
 [![Chrome Web Store](https://img.shields.io/badge/Download_for-Chrome-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://chromewebstore.google.com/detail/leantab/fffcoodgkabiljeifkakfnmkmnigomdo?authuser=0&hl=ru)
-[![Firefox Add-ons](https://img.shields.io/badge/Download_for-Firefox-FF7139?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](FIREFOX_ADDONS_LINK)
+[![Firefox Add-ons](https://img.shields.io/badge/Download_for-Firefox-FF7139?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://addons.mozilla.org/ru/firefox/addon/leantab/)
 [![Feedback & Support](https://img.shields.io/badge/Feedback_%26_Support-leantab.help-22C55E?style=for-the-badge\&logo=googlemessages\&logoColor=white)](https://leantab.help/)
 
 <br><br>
@@ -158,7 +158,7 @@ This means you can continue using your preferred search engine directly from you
 
 [![Install LeanTab for Chrome](https://img.shields.io/badge/INSTALL_LEANTAB-Chrome_Web_Store-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://chromewebstore.google.com/detail/leantab/fffcoodgkabiljeifkakfnmkmnigomdo?authuser=0&hl=ru)
 
-[![Install LeanTab for Firefox](https://img.shields.io/badge/INSTALL_LEANTAB-Firefox_Add--ons-FF7139?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](FIREFOX_ADDONS_LINK)
+[![Install LeanTab for Firefox](https://img.shields.io/badge/INSTALL_LEANTAB-Firefox_Add--ons-FF7139?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://addons.mozilla.org/ru/firefox/addon/leantab/)
 
 </div>
 
@@ -315,7 +315,7 @@ LeanTab выполняет поиск через поисковую систем
 
 [![Скачать LeanTab для Chrome](https://img.shields.io/badge/СКАЧАТЬ_LEANTAB-Chrome_Web_Store-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://chromewebstore.google.com/detail/leantab/fffcoodgkabiljeifkakfnmkmnigomdo?authuser=0&hl=ru)
 
-[![Скачать LeanTab для Firefox](https://img.shields.io/badge/СКАЧАТЬ_LEANTAB-Firefox_Add--ons-FF7139?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](FIREFOX_ADDONS_LINK)
+[![Скачать LeanTab для Firefox](https://img.shields.io/badge/СКАЧАТЬ_LEANTAB-Firefox_Add--ons-FF7139?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://addons.mozilla.org/ru/firefox/addon/leantab/)
 
 </div>
 
@@ -349,6 +349,6 @@ LeanTab выполняет поиск через поисковую систем
 
 <br>
 
-[Chrome Web Store](https://chromewebstore.google.com/detail/leantab/fffcoodgkabiljeifkakfnmkmnigomdo?authuser=0&hl=ru) · [Firefox Add-ons](FIREFOX_ADDONS_LINK) · [Feedback & Support](https://leantab.help/#contacts)
+[Chrome Web Store](https://chromewebstore.google.com/detail/leantab/fffcoodgkabiljeifkakfnmkmnigomdo?authuser=0&hl=ru) · [Firefox Add-ons](https://addons.mozilla.org/ru/firefox/addon/leantab/) · [Feedback & Support](https://leantab.help/#contacts)
 
 </div>
